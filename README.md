@@ -65,7 +65,6 @@ mNavigator.pop()
 2. LogUtil：管理Log的工具类，能够不删Log就禁用部分或所有Log，代码参考郭霖《第一行代码》
 3. ToastUtil：通过扩展函数实现字符串.showToast()
 4. MainViewModel内有个简单的Log工具，同样是通过扩展函数，实现字符串.showLog()，更改同一级下的disableLog，就可以轻松禁用Log
-5.
 
 #### 6. 提供选项自定义View
 
